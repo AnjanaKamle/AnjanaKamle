@@ -46,17 +46,17 @@ RSS collection → Claude API classification → Supabase → GitHub Actions aut
 
 **Focus areas:** LLM-integrated pipelines · sensor fusion & embedded robotics · computer vision for accessibility · backend automation
 
+<!--
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjanaKamle&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaKamle&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-roan-nine-27.vercel.app/api?username=AnjanaKamle&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-roan-nine-27.vercel.app/api/top-langs/?username=AnjanaKamle&layout=compact&hide_border=true" />
 </p>
 
 ---
-
+ -->
 ### 🌱 Beyond Code
 
 Core Coordinator, Game Development Club · Public Policy Club (debate & policy design) · Google Developers Group · competitive tennis · volunteer, MoreThanMe NGO
