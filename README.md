@@ -22,13 +22,13 @@ Sole backend engineer: designed and shipped the full pipeline — RSS ingestion,
 
 ### Featured Projects
 
-** ISL Translation Glove** — *Robotics / Embedded Systems*
+**ISL Translation Glove** — *Robotics / Embedded Systems*
 A wearable sign-language translator built from scratch as a hardware beginner. ESP32 + flex sensors + MPU6050 IMU for gesture capture, with real-time translation output — early work in low-cost assistive robotics.
 
-** Sign Language Translator (Computer Vision)**
+**Sign Language Translator (Computer Vision)**
 Real-time Indian Sign Language recognition using MediaPipe and computer vision, exploring accessible, camera-only alternatives to sensor-based translation.
 
-** Chinese Media Tracker — Backend Pipeline**
+**Chinese Media Tracker — Backend Pipeline**
 RSS collection → Claude API classification → Supabase → GitHub Actions automation, built as part of Fibonacci Research's real-world simulation program.
 
 ---
