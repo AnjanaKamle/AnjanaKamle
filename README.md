@@ -1,20 +1,4 @@
-## Hi there 👋
-
-<!--
-**AnjanaKamle/AnjanaKamle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi, I'm AK 👋</h1>
+<h1 align="center">Hi, I'm Anjana 👋</h1>
 <h3 align="center">AI/ML Engineer & Robotics Builder — B.Tech CSE (AI), Rishihood University</h3>
 
 <p align="center">
@@ -24,6 +8,8 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -46,6 +32,9 @@ Real-time Indian Sign Language recognition using MediaPipe and computer vision, 
 **📰 Chinese Media Tracker — Backend Pipeline**
 RSS collection → Claude API classification → Supabase → GitHub Actions automation, built as part of Fibonacci Research's real-world simulation program.
 
+**🌿 Vayumos** *(early-stage / ideation)*
+Algae-based urban air purification concept for B2B ESG buyers — built the AQI data dashboard and led early outreach and accelerator application.
+
 ---
 
 ### ⚙️ Tech Stack
@@ -67,7 +56,7 @@ RSS collection → Claude API classification → Supabase → GitHub Actions aut
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjanaKamle&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaKamleE&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjanaKamle&layout=compact&hide_border=true" />
 </p>
 
 ---
