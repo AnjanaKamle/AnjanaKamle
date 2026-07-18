@@ -31,9 +31,6 @@ Real-time Indian Sign Language recognition using MediaPipe and computer vision, 
 **📰 Chinese Media Tracker — Backend Pipeline**
 RSS collection → Claude API classification → Supabase → GitHub Actions automation, built as part of Fibonacci Research's real-world simulation program.
 
-**🌿 Vayumos** *(early-stage / ideation)*
-Algae-based urban air purification concept for B2B ESG buyers — built the AQI data dashboard and led early outreach and accelerator application.
-
 ---
 
 ### ⚙️ Tech Stack
