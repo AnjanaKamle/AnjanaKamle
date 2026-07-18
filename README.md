@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjana 👋</h1>
-<h3 align="center">AI/ML Engineer & Robotics Builder — B.Tech CSE (AI), Rishihood University</h3>
+<h3 align="center">Tech enthusiast </h3>
 
 <p align="center">
   I build systems at the intersection of <b>applied AI</b>, <b>backend engineering</b>, and <b>embedded/robotics hardware</b> —
@@ -13,27 +13,27 @@
 
 ---
 
-### 🚀 Currently Building
+### Currently Building
 
 **Chinese Media Tracker** — an AI-powered monitoring system tracking Chinese state and commercial media coverage of India.
 Sole backend engineer: designed and shipped the full pipeline — RSS ingestion, LLM-based classification via the Claude API, Supabase storage, and GitHub Actions for automated scheduled runs.
 
 ---
 
-### 🛠️ Featured Projects
+### Featured Projects
 
-**🤖 ISL Translation Glove** — *Robotics / Embedded Systems*
+** ISL Translation Glove** — *Robotics / Embedded Systems*
 A wearable sign-language translator built from scratch as a hardware beginner. ESP32 + flex sensors + MPU6050 IMU for gesture capture, with real-time translation output — early work in low-cost assistive robotics.
 
-**🖐️ Sign Language Translator (Computer Vision)**
+** Sign Language Translator (Computer Vision)**
 Real-time Indian Sign Language recognition using MediaPipe and computer vision, exploring accessible, camera-only alternatives to sensor-based translation.
 
-**📰 Chinese Media Tracker — Backend Pipeline**
+** Chinese Media Tracker — Backend Pipeline**
 RSS collection → Claude API classification → Supabase → GitHub Actions automation, built as part of Fibonacci Research's real-world simulation program.
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
@@ -49,7 +49,7 @@ RSS collection → Claude API classification → Supabase → GitHub Actions aut
 <!--
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img height="165" src="https://github-readme-stats-roan-nine-27.vercel.app/api?username=AnjanaKamle&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats-roan-nine-27.vercel.app/api/top-langs/?username=AnjanaKamle&layout=compact&hide_border=true" />
@@ -57,7 +57,7 @@ RSS collection → Claude API classification → Supabase → GitHub Actions aut
 
  -->
 ---
-### 🌱 Beyond Code
+### Beyond Code
 
 Core Coordinator, Game Development Club · Public Policy Club (debate & policy design) · Google Developers Group · competitive tennis · volunteer, MoreThanMe NGO
 
