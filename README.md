@@ -55,8 +55,8 @@ RSS collection → Claude API classification → Supabase → GitHub Actions aut
   <img height="165" src="https://github-readme-stats-roan-nine-27.vercel.app/api/top-langs/?username=AnjanaKamle&layout=compact&hide_border=true" />
 </p>
 
----
  -->
+---
 ### 🌱 Beyond Code
 
 Core Coordinator, Game Development Club · Public Policy Club (debate & policy design) · Google Developers Group · competitive tennis · volunteer, MoreThanMe NGO
